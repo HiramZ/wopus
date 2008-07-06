@@ -1,13 +1,13 @@
 = Wordpress主题mozilla for wordpress theme =
-== 简介 ==
+=== 简介 ===
 此主题由mozine theme for wordpress 修改而来，三栏，支持widgets、tags、google自定义搜索
 
-
-* 使用方法
-# 下载并解压mozilla for wordpress theme
-# 将mozilla for wordpress theme上传到wp-content/themes/目录
-# 进入Wordpress后台-Design-并激活mozilla for wordpress theme即可
-* 使用方法
+=== 使用方法 ===
+* 
+  # 下载并解压mozilla for wordpress theme
+  # 将mozilla for wordpress theme上传到wp-content/themes/目录
+  # 进入Wordpress后台-Design-并激活mozilla for wordpress theme即可
+*
 
 === 注意事项 ===
 必须开启中文wordpress工具箱，插件已包含在主题文件中
