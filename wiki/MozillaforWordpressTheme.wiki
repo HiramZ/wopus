@@ -1,4 +1,3 @@
-= Wordpress主题:mozilla for wordpress theme =
 === 简介 ===
 此主题由mozine theme for wordpress 修改而来，三栏，支持widgets、tags、google自定义搜索
 
